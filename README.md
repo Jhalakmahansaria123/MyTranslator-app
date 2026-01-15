@@ -1,16 +1,54 @@
-# React + Vite
+# 🌍Text & Image Translator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application that allows users to translate text and text extracted from images into multiple languages with a simple and easy-to-use interface.  
+The app also supports OCR-based text extraction from images, making language translation more accessible and efficient.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+https://mytranslator123.netlify.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- Translate text into multiple languages
+- Extract text from images using OCR
+- Translate extracted image text into selected languages
+- Supports a wide range of languages
+- Simple and user-friendly interface
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **React**
+- **Tailwind CSS**
+- **JavaScript**
+- **RapidAPI (Google Translator API)**
+- **OCR (Tesseract.js)**
+
+---
+
+## 📌 How to Use
+
+### 🔤 Text Translator
+1. Open the **Text Translator** section.
+2. Enter the text you want to translate.
+3. Choose the target language.
+4. Click on **Translate**.
+5. The translated text will appear instantly.
+
+### 🖼️ Image Translator
+1. Open the **Image Translator** section.
+2. Upload an image containing text.
+3. Click on **Extract Text** to get text from the image.
+4. Select the language you want to translate into.
+5. Click on **Translate** to get the translated text.
+
+
+
+## 👩‍💻 Author
+**Jhalak Mahansaria**  
+GitHub: [https://github.com/Jhalakmahansaria123](https://github.com/Jhalakmahansaria123)
+
+
+
