@@ -1,14 +1,12 @@
 # 🌍Text & Image Translator
-
 A web application that allows users to translate text and text extracted from images into multiple languages with a simple and easy-to-use interface.  
 The app also supports OCR-based text extraction from images, making language translation more accessible and efficient.
 
----
 
 ## 🚀 Live Demo
 https://mytranslator123.netlify.app/
 
----
+
 
 ## ✨ Features
 - Translate text into multiple languages
@@ -17,7 +15,6 @@ https://mytranslator123.netlify.app/
 - Supports a wide range of languages
 - Simple and user-friendly interface
 
----
 
 ## 🛠️ Tech Stack
 - **React**
@@ -26,7 +23,6 @@ https://mytranslator123.netlify.app/
 - **RapidAPI (Google Translator API)**
 - **OCR (Tesseract.js)**
 
----
 
 ## 📌 How to Use
 
